@@ -1,0 +1,49 @@
+img {max-height:35px;
+	 max-width:35px;
+}
+h1{
+	font-family:arial;
+	text-align:center;
+}
+
+input[type=text] {
+	margin:4px;
+    border: 2px solid gray;
+    padding:7px;
+	opacity:0.5;
+}
+#userdata {
+	position:absolute;
+	top:15%;
+	left:50%;	
+}
+#info{
+	position:absolute;
+	top:14%;
+	left:30%;
+	font-family:arial;
+	margin-top:10px;
+	font-weight:bold;
+}
+#pictures {
+	position:absolute;
+	top:15%;
+	left:27%;	
+}
+.submit-btn {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  font-family: arial;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  margin-left:78%;
+}
+.text{
+	font-family:arial;
+	text-align:center;
+	opacity:0.5;
+}
